@@ -117,7 +117,7 @@ Overall, the results suggest that **both growth intensity and stability influenc
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/your-username/renewable-energy-analysis.git
+    git clone https://github.com/chiudioniluca-data/renewable-energy-analysis.git
 ```
 2. Install dependencies:
 ```bash
